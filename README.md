@@ -1,4 +1,4 @@
-Тестирование формы авторизации Личного кабинета Ростелеком https://b2c.passport.rt.ru
+Тестирование формы авторизации личного кабинета Ростелеком https://b2c.passport.rt.ru
 Запуск тестов
 1. Установите все требования requirements.txt
 2. Установить Selenium WebDriver с https://chromedriver.chromium.org/downloads
